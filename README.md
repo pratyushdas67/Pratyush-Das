@@ -5,11 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <img src="https://img.shields.io/badge/CSE%20%7C%20AI%2FML-Student-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frontend-Developer-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-Explorer-00C2FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hackathon-Builder-00E5A8?style=for-the-badge"/>
 </p>
 
@@ -19,13 +16,13 @@
 
 Hey! I'm **Pratyush Das**, a **Computer Science Engineering student specializing in AI/ML**, with a strong interest in **Frontend Development** and building things that people actually enjoy using.
 
-I'm fascinated by the intersection of **design, technology and artificial intelligence**.
+I'm fascinated by the intersection of **design, technology, and artificial intelligence**.
 
 I enjoy taking an idea from:
 
 **💭 Concept → 🎨 Design → 💻 Code → 🚀 Product**
 
-Currently, I'm focused on improving my development skills, exploring AI/ML, participating in **hackathons**, and turning random ideas into working projects.
+I'm currently at the beginning of my development journey, exploring different technologies, building small projects, participating in **hackathons**, and learning something new with every project.
 
 ---
 
@@ -33,17 +30,17 @@ Currently, I'm focused on improving my development skills, exploring AI/ML, part
 
 > ⚡ **Build fast. Think differently. Create something meaningful.**
 
-Hackathons are where I love experimenting with ideas, learning new technologies, collaborating with people and building under pressure.
+Hackathons are a place where I get to experiment with ideas, learn new technologies, collaborate with others, and challenge myself to build something within a limited time.
 
 This repository/project is part of my **Hackathon journey**.
 
 ### 🚀 What I bring to a hackathon
 
-* 🎨 **Frontend & UI/UX** — Turning ideas into clean and engaging interfaces
-* 🤖 **AI/ML** — Exploring intelligent features and practical AI applications
-* 💡 **Problem Solving** — Breaking complex problems into simpler solutions
-* ⚡ **Rapid Prototyping** — Building and iterating quickly
-* 🧠 **Learning by Building** — Learning technologies through real projects
+* 🎨 **Frontend & UI/UX** — Exploring ways to create clean and engaging interfaces
+* 🤖 **AI/ML** — Learning how intelligent technologies can solve real-world problems
+* 💡 **Problem Solving** — Breaking problems into smaller, manageable pieces
+* ⚡ **Rapid Learning** — Picking up new technologies when a project demands it
+* 🧠 **Curiosity** — Always willing to experiment and try something new
 
 ---
 
@@ -51,29 +48,29 @@ This repository/project is part of my **Hackathon journey**.
 
 ### Frontend Development
 
-I love the creative side of development — taking a blank screen and turning it into an experience.
+I enjoy the creative side of programming — taking a blank screen and turning it into something interactive and useful.
 
-I'm particularly interested in:
+I'm currently exploring:
 
 ```text
 🎨 UI Design
    ↓
-⚡ Interactive Interfaces
+🌐 HTML & CSS
+   ↓
+⚡ JavaScript
    ↓
 📱 Responsive Design
    ↓
-✨ Smooth User Experience
+✨ Interactive Interfaces
    ↓
-🚀 Real-world Products
+🚀 Building Real Projects
 ```
 
-But being a **CSE AI/ML student**, I don't want to stop at the interface.
+As a **CSE AI/ML student**, I'm also interested in exploring how AI can be combined with frontend development to create smarter and more useful applications.
 
-My goal is to combine:
+My long-term goal is to explore the intersection of:
 
-**Frontend + AI/ML + Creative Problem Solving**
-
-and build applications that are not only intelligent, but also **beautiful and intuitive**.
+**🎨 Frontend + 🤖 AI/ML + 💡 Creative Problem Solving**
 
 ---
 
@@ -107,14 +104,29 @@ and build applications that are not only intelligent, but also **beautiful and i
 
 ## 🌱 Currently Learning
 
-```diff
-+ Advanced Frontend Development
-+ React & Modern UI
-+ AI / Machine Learning
-+ Full-Stack Development
-+ Better UI/UX
-+ Building real-world projects
+I'm at the **beginning of my development journey**, exploring different areas of technology and figuring out what I enjoy building the most.
+
+Right now, I'm learning:
+
+```text
+🌐 HTML & CSS
+   ↓
+⚡ JavaScript
+   ↓
+⚛️ Exploring React
+   ↓
+🐍 Python & AI/ML Fundamentals
+   ↓
+🎨 UI/UX & Frontend Design
+   ↓
+🚀 Building Small Projects
 ```
+
+I'm still learning, experimenting, making mistakes, and improving every day.
+
+> **Learning → Building → Breaking → Fixing → Growing 🌱**
+
+There's a lot more to learn, and that's what makes the journey exciting. 🚀
 
 ---
 
@@ -133,11 +145,11 @@ Here you'll find:
 
 > Some projects might be polished.
 > Some might be experiments.
-> Every project is part of the journey.
+> **Every project is part of the journey.**
 
 ---
 
-## 📊 GitHub Journey
+## 📊 My GitHub Journey
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
@@ -153,6 +165,8 @@ Here you'll find:
 I don't want to simply collect programming languages or frameworks.
 
 I want to understand **why something should be built, who it helps, and how technology can make it better.**
+
+For me, every bug is a lesson, every project is an experiment, and every new technology is another opportunity to learn.
 
 ---
 
