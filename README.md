@@ -1,220 +1,80 @@
-# 👋 Hey, I'm Pratyush Das!
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2FF,100:00E5A8&height=220&section=header&text=Pratyush%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Create%20%7C%20Innovate&descAlignY=58&descSize=18" width="100%"/>
-</p>
+# Hey there, I'm Pratyush Das 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CSE%20%7C%20AI%2FML-Student-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frontend-Explorer-00C2FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hackathon-Builder-00E5A8?style=for-the-badge"/>
-</p>
+### CSE (AI/ML) Student | Frontend Enthusiast | Currently Learning & Building
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+interfaces...;Learning+AI%2FML+by+day%2C+Frontend+by+night;Currently+hacking+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🙋‍♂️ About Me
 
-Hey! I'm **Pratyush Das**, a **Computer Science Engineering student specializing in AI/ML**, with a strong interest in **Frontend Development** and building things that people actually enjoy using.
-
-I'm fascinated by the intersection of **design, technology, and artificial intelligence**.
-
-I enjoy taking an idea from:
-
-**💭 Concept → 🎨 Design → 💻 Code → 🚀 Product**
-
-I'm currently at the beginning of my development journey, exploring different technologies, building small projects, participating in **hackathons**, and learning something new with every project.
-
----
-
-## 🏆 Hackathon Mode: ON
-
-> ⚡ **Build fast. Think differently. Create something meaningful.**
-
-Hackathons are a place where I get to experiment with ideas, learn new technologies, collaborate with others, and challenge myself to build something within a limited time.
-
-This repository/project is part of my **Hackathon journey**.
-
-### 🚀 What I bring to a hackathon
-
-* 🎨 **Frontend & UI/UX** — Exploring ways to create clean and engaging interfaces
-* 🤖 **AI/ML** — Learning how intelligent technologies can solve real-world problems
-* 💡 **Problem Solving** — Breaking problems into smaller, manageable pieces
-* ⚡ **Rapid Learning** — Picking up new technologies when a project demands it
-* 🧠 **Curiosity** — Always willing to experiment and try something new
-
----
-
-## 🎨 My Main Interest
-
-### Frontend Development
-
-I enjoy the creative side of programming — taking a blank screen and turning it into something interactive and useful.
-
-I'm currently exploring:
-
-```text
-🎨 UI Design
-   ↓
-🌐 HTML & CSS
-   ↓
-⚡ JavaScript
-   ↓
-📱 Responsive Design
-   ↓
-✨ Interactive Interfaces
-   ↓
-🚀 Building Real Projects
-```
-
-As a **CSE AI/ML student**, I'm also interested in exploring how AI can be combined with frontend development to create smarter and more useful applications.
-
-My long-term goal is to explore the intersection of:
-
-**🎨 Frontend + 🤖 AI/ML + 💡 Creative Problem Solving**
+- 🎓 I'm a **Computer Science (AI/ML)** student
+- 💻 Passionate about **Frontend Development** — I love turning ideas into clean, interactive experiences
+- 🌱 Currently learning and leveling up my skills, one project at a time
+- 🚀 Actively participating in **hackathons** to build, break, and learn fast
+- ⚡ Fun fact: I believe good UI is 50% logic, 50% vibes
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
-</p>
+**AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-I'm at the **beginning of my development journey**, exploring different areas of technology and figuring out what I enjoy building the most.
+<div align="center">
 
-Right now, I'm learning:
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" />
 
-```text
-🌐 HTML & CSS
-   ↓
-⚡ JavaScript
-   ↓
-⚛️ Exploring React
-   ↓
-🐍 Python & AI/ML Fundamentals
-   ↓
-🎨 UI/UX & Frontend Design
-   ↓
-🚀 Building Small Projects
-```
-
-I'm still learning, experimenting, making mistakes, and improving every day.
-
-> **Learning → Building → Breaking → Fixing → Growing 🌱**
-
-There's a lot more to learn, and that's what makes the journey exciting. 🚀
+</div>
 
 ---
 
-## 🚀 Projects & Experiments
+## 🌱 Currently
 
-I believe the best way to learn development is to **build things**.
-
-Here you'll find:
-
-🎨 Frontend experiments
-🤖 AI/ML projects
-🏆 Hackathon projects
-💡 Random ideas turned into prototypes
-📚 College projects
-🧪 Things I'm currently experimenting with
-
-> Some projects might be polished.
-> Some might be experiments.
-> **Every project is part of the journey.**
+- 📖 Learning: Advanced React, Machine Learning fundamentals
+- 🏆 Building for: Hackathons and personal projects
+- 🎯 Goal: Becoming a strong full-stack + AI-driven developer
 
 ---
 
-## 📊 My GitHub Journey
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-## 💭 My Developer Philosophy
-
-> **"Don't just learn technology. Build something with it."**
-
-I don't want to simply collect programming languages or frameworks.
-
-I want to understand **why something should be built, who it helps, and how technology can make it better.**
-
-For me, every bug is a lesson, every project is an experiment, and every new technology is another opportunity to learn.
+</div>
 
 ---
 
-## 🎯 The Road Ahead
+<div align="center">
 
-```text
-        LEARN
-          ↓
-       EXPLORE
-          ↓
-        BUILD
-          ↓
-       BREAK
-          ↓
-       DEBUG
-          ↓
-       IMPROVE
-          ↓
-        REPEAT 🔁
-```
+### "Still learning. Still building. Still leveling up." 🌱
 
-My goal is to keep growing as a developer while exploring the intersection of:
+⭐ Thanks for stopping by!
 
-**🎨 Frontend × 🤖 AI/ML × 💡 Innovation**
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in meeting people who love:
-
-💻 Building cool stuff
-🤖 AI & technology
-🎨 Creative frontend development
-🏆 Hackathons
-💡 Crazy project ideas
-🚀 Learning something new
-
-If you're building something interesting, let's connect and create something awesome.
-
-<p align="center">
-  <b>✨ Thanks for stopping by! ✨</b>
-</p>
-
-<p align="center">
-  <i>Made with curiosity, caffeine & a lot of debugging ☕💻</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2FF,100:00E5A8&height=120&section=footer"/>
-</p>
+</div>
